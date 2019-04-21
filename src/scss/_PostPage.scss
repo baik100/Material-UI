@@ -1,0 +1,12 @@
+//post
+
+.PostPage {
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        .PostCard {
+            padding: 15px;
+            width: 33.33%;
+        }
+    }
+}
